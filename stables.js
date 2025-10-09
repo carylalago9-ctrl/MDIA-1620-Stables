@@ -52,5 +52,3 @@ horses[0].hungry = true;
 horses[1].hungry = false;
 horses[2].hungry = true;
 horses[3].hungry = false;
-
-let game = "test";
